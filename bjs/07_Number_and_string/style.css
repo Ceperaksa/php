@@ -7,3 +7,22 @@
     text-align: end;
     font-size: x-large;
 }
+
+.card-body {
+    background-color: black;
+    padding: 2rem 1rem;
+}
+
+#btn_clr {
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+
+#btn_clr:hover {
+    background: rgb(248, 126, 126);
+}
+
+#num {
+    background-color: blue;
+    color: rgb(255, 255, 255);
+}
